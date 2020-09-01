@@ -1,0 +1,10 @@
+*1+Verifying+Bug+Issue description+owner2+true+Fixed
+-note 1
+*0+New+Bug+Issue description+null+false+
+-note 1
+*5+Confirmed+Bug+Issue description+null+true+
+-note 1
+*4+Closed+Bug+Issue description+null+false+WontFix
+-note 1
+*0+New+Enhancement+Issue description+null+false+null
+-note
